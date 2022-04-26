@@ -33,3 +33,6 @@ The File has:
       seeAllQuestions
 
       deleteQuestion
+      
+  ![image](https://user-images.githubusercontent.com/76874762/165298988-9bd8496c-b583-4443-a8c8-0a42603c9755.png)
+
